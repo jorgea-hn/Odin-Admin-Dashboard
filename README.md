@@ -17,9 +17,6 @@ Este proyecto forma parte del curso intermedio de HTML y CSS. Su objetivo princi
 - Uso de **grid** para organizar los elementos de manera eficiente.
 - **Hover effects** y transiciones para mejorar la experiencia de usuario.
 
-## 📷 Captura de Pantalla
-_Agrega aquí una imagen del dashboard en funcionamiento._
-
 ## 🚀 Instalación y Uso
 1. Clona este repositorio:
    ```bash
@@ -33,8 +30,8 @@ _Agrega aquí una imagen del dashboard en funcionamiento._
 - Optimizar la accesibilidad para personas con discapacidad visual.
 
 ## Autor
-**Tu Nombre**  
-*Desarrollador Web*  
+**Jorge Alberto Henriquez Novoa**  
+*Desarrollador de software y analista de datos*  
 [LinkedIn](https://www.linkedin.com/in/tu-perfil) | [GitHub](https://github.com/tu_usuario)
 
 ---
